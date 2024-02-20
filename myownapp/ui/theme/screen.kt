@@ -16,6 +16,7 @@ class screen {
             modifier = modifier.size(2.dp)
         ) {
             Text(text = "hello")
+            Text(text = "hi")
         }
     }
 }
